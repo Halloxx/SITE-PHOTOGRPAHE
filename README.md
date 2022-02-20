@@ -27,11 +27,6 @@
 
 
 
-
-
-
-
-
 <div id="menu">
     <ul id="onglets">
         
@@ -68,11 +63,6 @@
 
 
 
-
-
-
-
-
                        
                         <div class="charles"></div><p class="charles">Charles Cantin</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
                         
@@ -101,7 +91,7 @@
                     
 
                         
-                        
+              
                         
                         
                         
@@ -111,10 +101,6 @@
                         
                         <body>
                         
-
-
-
-
 
 
 
@@ -131,16 +117,7 @@
                     </br>
 
 
-                    
-
-
-
-
-
-
-
-                   
-
+                             
 
 
 
@@ -151,49 +128,9 @@
                         <br>
                     </br>
 
+                      
                     
-
-
-
-
-
-
-                    
-                        
-
-
-
-
-
-
-            
-
-                       
-                        
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                        
-                            
-
-
-
-
-
-
-
-
-
-
-
-
+                
 
 
 
@@ -225,60 +162,12 @@
                     
                     
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                 
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
+                  
                     
                     
                     
                     
                     </footer>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1026,8 +915,976 @@ footer p {
 
 */ PARTIE TARIFS ET PRESTATONS */
 
+# TARIF-ET-PRESTATION-SITE-PHOTOGRAPHE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Tarif</title>
 
 
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+                
+
+                
+                <div class="charles"></div><p class="charles">Tarif et Prestations</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+
+
+
+
+                <br>
+                    </br>
+
+                
+
+
+
+
+
+
+
+            <div class="juste-moi">
+            <h1>📷 « Juste moi » </h1></div>
+                
+            
+
+                <div class="seance">
+                <h4><strong>130€</strong>
+                
+                &nbsp;  Séance pour une personne, en extérieur ou en studio</h4></div>
+
+
+
+
+            <br>
+                </br>
+
+
+
+
+            <div class="juste-moi">
+            <h1>📷 « Pour deux » </h1></div>
+                        
+                    
+        
+                <div class="seance">
+                <h4><strong>195€</strong>
+                        
+               &nbsp;  Pour deux personnes, en extérieur ou en studio</h4></div>
+
+
+
+
+
+               <br>
+                </br>
+
+
+
+
+            <div class="juste-moi">
+            <h1>📷 « Famille » </h1></div>
+                        
+                    
+        
+                <div class="seance">
+                <h4><strong>220€</strong>
+                        
+               &nbsp;  Pour la famille ou les amis jusqu’à 4 personnes, en extérieur ou en studio
+               <u>30 euros</u> en supplément par personne au-delà de 4 (hormis enfant jusqu’à 2 ans)
+               </h4></div>
+
+
+
+
+
+
+               <br>
+                </br>
+
+
+
+
+            <div class="juste-moi">
+            <h1>📷 « Il était une fois » </h1></div>
+                        
+                    
+        
+                <div class="seance">
+                <h4><strong>160€</strong>
+                        
+               &nbsp;  Photo de grossesse (À votre domicile, en extérieur ou en studio)
+               </h4></div>
+
+
+
+               
+
+
+               <br>
+            </br>
+
+
+
+
+        <div class="juste-moi">
+        <h1>📷 « Mon bébé » </h1></div>
+                    
+                
+    
+            <div class="seance">
+            <h4><strong>100€</strong>
+                    
+           &nbsp;  Photo d’enfant jusqu’à 3 ans (photo à domicile)
+           </h4></div>
+
+
+
+
+
+           
+           <br>
+            </br>
+
+
+
+
+        <div class="juste-moi">
+        <h1>📷 « J'immortalise l'évènement » sur mesure </h1></div>
+                    
+                
+    
+            <div class="seance">
+            <h4>
+                    
+           &nbsp;  Prestation de mariage ou baptême sur devis
+           </h4></div>
+
+
+
+
+*/ PARTIE GALERIE */
+
+# GALERIE-SITE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Photo Galerie</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+                
+
+                
+                <div class="charles"></div><p class="charles">Galerie</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+                
+                
+                
+                
+                
+                
+                    
+                    
+                    
+                    
+                
+                <a href="file:///C:/Users/axelt/Desktop/STUDI/MARIAGE.html">
+                    <div><img src='file:///C:/Users/axelt/Downloads/mariage-hiver-noir-dor%25C3%25A9-withalovelikethat-39.jpg' style="float:left;"  height="290" width="300"></div></a>
+                    &nbsp;
+                    &nbsp;
+
+
+
+
+                
+
+
+                
+
+
+                   
+                
+        
+                    
+        <div class="bebe">
+            <a href="file:///C:/Users/axelt/Desktop/STUDI/b%C3%A9b%C3%A9.html">
+        <img src="file:///C:/Users/axelt/Downloads/liam-22.jpg" style="float:left;" height="290" width="340"></div></a>
+
+
+
+
+
+
+            
+
+
+        <div class="famille2">
+            <a href="file:///C:/Users/axelt/Desktop/STUDI/FAMILLE.html">
+                <img src="file:///C:/Users/axelt/Downloads/blog08.jpg"   height="290" width="330"></a></div>
+
+
+
+
+
+
+
+                
+    
+    
+            <div class="bapteme2">
+                <a href="file:///C:/Users/axelt/Desktop/STUDI/bapt%C3%AAme.html">
+                    <img src="file:///C:/Users/axelt/Downloads/20220210_204353%20(1).jpg" height="290" width="300"></a></div>
+
+
+
+
+
+
+
+                    
+        
+        
+                <div class="grossesse2">
+                    <a href="file:///C:/Users/axelt/Desktop/STUDI/grossesse.html">
+                        <img src="file:///C:/Users/axelt/Downloads/grossesse%20(1).jpg"  height="290" width="300"></a></div>
+
+
+
+
+
+
+
+
+
+
+                        
+            
+            
+                    <div class="couple2">
+                        <a href="file:///C:/Users/axelt/Desktop/STUDI/couple.html">
+                            <img src="file:///C:/Users/axelt/Downloads/20220210_205730%20(2).jpg"  height="290" width="300"></a></div></div>
+
+
+
+
+
+                      
+
+                                
+                                
+                               
+
+*/ PARTIE COUPLE PHOTOGRAPHIE */
+
+# COUPLE-PHOTO-PHOTOGRAPHE<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Photo Galerie</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+                
+
+                
+                <div class="charles"></div><p class="charles">Couple</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                <img src="https://th.bing.com/th/id/R.3cd294159483b229f2d4e34b9312c978?rik=n5PkHh%2fZTPxvhw&riu=http%3a%2f%2fwhatknot.in%2fwp-content%2fuploads%2f2016%2f03%2fWhatKnot-Best-Couple-Shots-2016-74.jpg&ehk=pq3ZNpTuDFn1P8%2bN4BCPjEYqJJ4tOcn1QprHbBSWUds%3d&risl=&pid=ImgRaw&r=0" height="400" width="600">
+
+    &nbsp;
+
+    
+        <img src="https://th.bing.com/th/id/OIP.W7Qo0l2BUhfpMbg7VTeiiQHaE8?pid=ImgDet&rs=1" height="400" width="600">
+
+        &nbsp;
+
+       
+        <img src="https://th.bing.com/th/id/R.b9288c2abf9c1dec519b448d0dd63f33?rik=q%2bnzt7eHLxsRCQ&pid=ImgRaw&r=0" height="400" width="600">
+
+        &nbsp;
+
+        <img src="https://th.bing.com/th/id/R.955a7769f46c137eacba13879599b476?rik=uQ55SrpanPjo9g&riu=http%3a%2f%2fwww.julienbriche.com%2fwp-content%2fuploads%2f2014%2f03%2fS%c3%a9ance-photo-en-couple-%c3%a0-Amiens012(pp_w768_h513).jpg&ehk=oRHQIV%2blILIxCy%2bKYUHH%2fPpevrYQKuXA8aWxtN7My60%3d&risl=&pid=ImgRaw&r=0" height="400" width="600">
+
+                      
+*/ PARRTIE MARIAGE */
+
+# MARIAGE-SITE-PHOTOGRAPHE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Accueil</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+
+
+
+
+
+
+                       <div class="charles"></div><p class="charles">Photographie Mariage</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+
+
+
+
+
+
+<br>
+                    </br>
+
+
+
+
+        
+        <img src="https://th.bing.com/th/id/R.9431cbb74fe3a693e71e4badbd7962c2?rik=I6exEeQcJq9cjw&riu=http%3a%2f%2fthomasljungberg.se%2fwp41%2fwp-content%2fuploads%2f2010%2f07%2fMikael-Erika_Wedding_Rosendals-tradgard_23-600x400.jpg&ehk=2SJuLjXbBioeHLSpeN%2buiZiQkn7zS11ZipNMnUwJALU%3d&risl=&pid=ImgRaw&r=0">
+
+    &nbsp;
+
+    
+        <img src="https://clairedianaphotography.com/wp-content/uploads/2015/11/20-5526-post/Overlook-of-West-Georgia-Tallapoosa-GA-Athens-Wedding-Photographer_0040.jpg" height="400" width="600">
+
+        &nbsp;
+
+       
+        <img src="https://th.bing.com/th/id/OIP.ZO0AKJ0XGCMUU2XjodDmSQHaE8?pid=ImgDet&w=1218&h=812&rs=1" height="400" width="600">
+
+        &nbsp;
+
+        <img src="https://th.bing.com/th/id/R.aa07225ea9c1b05478de7c33ba0dfcd0?rik=ELO6YBd8sl6y9A&riu=http%3a%2f%2f1.bp.blogspot.com%2f-kb1hHnEofPQ%2fVca5X3rtFcI%2fAAAAAAAAB6M%2fB_ldeyTZhOI%2fs1600%2fIMG_3608WEB.jpg&ehk=eZ%2f2frvW4zIaDBSsKFnBpLeRi5xUavxqXifDlu6Zj5o%3d&risl=&pid=ImgRaw&r=0" height="400" width="600">
+
+
+
+
+
+
+        
+*/ PARTIE BEBE */
+
+# BEBE-SITE-PHOTOGRAPHE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Accueil</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+
+
+
+
+
+
+
+
+
+
+
+
+                       
+                        <div class="charles"></div><p class="charles">Bébé</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <img src="https://2.bp.blogspot.com/-RZabd58y5n0/UCk9h06ryOI/AAAAAAAAA20/zgaXzPazomI/s1600/BabaBeertjie.jpg" height="400" width="600">
+
+    &nbsp;
+
+    
+        <img src="https://i2.wp.com/charmposh.com/wp-content/uploads/2016/11/ChildrenSalon-baby-clothes-CharmPosh.jpg?resize=493%2C300&ssl=1" height="400" width="600">
+
+        &nbsp;
+
+       
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb97d9003e3826623/image/i19f06208e8cfda5f/version/1568314849/image.jpg" height="400" width="600">
+
+        &nbsp;
+
+        <img src="https://th.bing.com/th/id/R.a0600e53d660961417965440edecc4f5?rik=vy1FJPEFhD6Xxg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-oD6eVRYEEp8%2fUI7CiLlyJWI%2fAAAAAAAAC1M%2fiDWHhdtIKcg%2fs640%2fMackturns4-14Web.jpg&ehk=xriCv3AsFb1sZYah%2fBXiac6Eiqo6tnBKBGQVot8VIu4%3d&risl=&pid=ImgRaw&r=0" height="400" width="600">
+
+
+*/ PARTIE FAMILLE */
+
+# FAMILLE-SITE-PHOTOGRAPHE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Accueil</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+
+                
+                <div class="charles"></div><p class="charles">Famille</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+                
+                
+                
+                
+                
+                <br>
+                    </br>
+                    
+                    
+                    
+                    
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <img src="https://www.lemanegeauxcouleurs.com/wp-content/uploads/2020/04/22-18276-post/photographe-famille-avignon-seance-photo-baux-de-provence-17.jpg" height="400" width="600">
+
+    &nbsp;
+
+    
+        <img src="https://www.idahostreetdental.com/wp-content/uploads/2018/07/bio-family-1024x681.jpg" height="400" width="600">
+
+        &nbsp;
+
+       
+        <img src="https://1.bp.blogspot.com/-onXtc1Eb5UQ/WKojOwB4MrI/AAAAAAAAK8A/-b6P1h2MNwIXjGHzOp2j_M6LaH_fcP2lgCLcB/s1600/DSC_3603.jpg" height="400" width="600">
+
+        &nbsp;
+
+        <img src="https://www.voyaemigrar.com/wp-content/uploads/2017/09/familias-numerosas.jpg" height="400" width="600">
+
+*/ PARTIE BAPTEME */
+
+# BAPTEME-SITE-PHOTOGRAPHE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Photo Galerie</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+                
+
+                
+                <div class="charles"></div><p class="charles">Baptême</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+                
+                
+                
+                
+                      
+
+
+
+
+
+
+
+
+
+                <img src="https://th.bing.com/th/id/OIP.rlqM_aXEOcEJvdCXObI91QHaE7?pid=ImgDet&rs=1" height="400" width="600">
+
+    &nbsp;
+
+    
+        <img src="https://paroissedeploubalay.fr/wp-content/uploads/2020/12/Bapteme-enfant-Paroisse-de-Ploubalay-980x649.jpg" height="400" width="600">
+
+        &nbsp;
+
+       
+        <img src="https://www.strasbourgphoto.com/wp-content/uploads/2018/05/bapteme-07-1.jpg" height="400" width="600">
+
+        &nbsp;
+
+        <img src="https://th.bing.com/th/id/R.eb7360ce4f63cd373daed1f0acecbdd7?rik=o7qQIap%2fMBN4Sg&riu=http%3a%2f%2fwww.ab20100.ch%2fwp-content%2fuploads%2f2020%2f01%2fbapt%c3%aame-pixabay-libre-de-droits.jpg&ehk=SXcQ9dGWWHFxf05%2f2zkA1lDevCWbMs9xjhzitAiEvlI%3d&risl=&pid=ImgRaw&r=0" height="400" width="600">
+
+*/ PARTIE GROSSESSE */
+
+# GROSSESSE-SITE-PHOTOGRAPHE
+<!doctype html>
+<html lang="fr">
+    <head >
+        <script>
+    var BASE_URL = '';
+    var require = {
+        "baseUrl": ""
+    }
+</script>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="index.css"/>
+        <style>
+            p
+            {
+                color: rgb(0, 0, 0);
+            }
+            </style>
+
+<title>Charles Cantin | Photo Galerie</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="menu">
+    <ul id="onglets">
+        
+        <li class="active"><a href="file:///C:/Users/axelt/Desktop/STUDI/site_eval_photographie.html"> Accueil </a></li></a>
+        
+
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/GALERIE_SITE.html"> Galerie </a></li>
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/TARFI%20ET%20PRESTATIONS.HTML"> Tarifs et Prestations </a></li>
+    
+
+
+      
+      <li><a href="file:///C:/Users/axelt/Desktop/STUDI/CONTACT.html"> Contact </a></li>
+      
+  </div>
+
+
+  <div class="prefooter-block">     
+            <div class="icon-footer"> <i class="icon-flat-cart"></i>  </div>
+            <p class="prefooter-block-subtitle">
+                       </p>
+                       
+                       
+
+
+                       <img src="file:///C:/Users/axelt/Desktop/STUDI/logo_photgraphie.JPG" height="150" width="150">
+                
+
+                
+                <div class="charles"></div><p class="charles">Grossesse</p></p></title></strong></h1> <link rel="stylesheet" href="index.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                <img src="https://th.bing.com/th/id/OIP.zysm7_7J6U52QQ5hGt6a2wEyDL?w=301&h=200&c=7&r=0&o=5&dpr=1.5&pid=1.7" height="400" width="600">
+
+    &nbsp;
+
+    
+        <img src="https://th.bing.com/th/id/OIP.GIJfDvOYcdx65JTzll0_PgHaE6?pid=ImgDet&rs=1" height="400" width="600">
+
+        &nbsp;
+
+       
+        <img src="https://th.bing.com/th/id/R.1c0966d96324f5ba030fba6f8ef122c4?rik=9x6mIBkzBXjw8g&riu=http%3a%2f%2ffotokindl.de%2fwp-content%2fuploads%2f2019%2f02%2fPhini-16.jpg&ehk=InpOl6m9CYzGnaJYL7ei2cGrkGlXorEXClFTMxP47U0%3d&risl=&pid=ImgRaw&r=0" height="400" width="600">
+
+        &nbsp;
+
+        <img src="https://i1.wp.com/aureliepetit.com/wp-content/uploads/2017/12/shooting-photo-grossesse-artistique-po%C3%A9tique-femlme-enceinte-couple-robe-boh%C3%A8me-dentelle-blanche-vintage-couronne-de-fleurs-roses-lumi%C3%A8re-naturelle6.jpg?fit=1100%2C733&ssl=1" height="400" width="600">
+
+                      
 
 
 
